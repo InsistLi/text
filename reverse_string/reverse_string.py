@@ -10,3 +10,5 @@ def reverse_string(args):
 if __name__ == "__main__":
     args = "Hi,Rocky!"
     print reverse_string(args)
+    args = "Hi,fork"
+    print reverse_string(args)
